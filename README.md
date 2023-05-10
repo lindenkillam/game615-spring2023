@@ -101,6 +101,24 @@ ________________________________________________________
 
 ________________________________________________________
 
+**Midterm:** _"Midterm"_
+
+**Developer:** Linden Killam
+
+**How to play:**
+Use the arrow keys to steer the player!
+
+[**Playable link to game**] (https://lindenkillam.github.io/game615-spring2023-midterm/play/)
+
+[**Source link**] (https://github.com/lindenkillam/game615-spring2023-midterm/tree/main/midterm)
+
+Paper by Poly by Google [CC-BY] via Poly Pizza<br>
+
+________________________________________________________
+
+
+________________________________________________________
+
 **Exercise 07:** _"Tank vs Pizza Army"_
 
 **Group team:** Linden Killam, Justin Markhoff
