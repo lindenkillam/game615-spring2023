@@ -1,3 +1,23 @@
+**Exercise 01:** _"Pizza Stomper"_
+
+**Developer:** Linden Killam
+
+**How to play:**
+Start the game.
+
+[**Playable link to game**]()
+
+[**Source link**]()
+
+**Asset Attribution:**
+Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza
+Trainer by jeremy [CC-BY] via Poly Pizza
+
+________________________________________________________
+
+
+________________________________________________________
+
 **Exercise 02:** _"Pizza Shooter"_
 
 **Developer:** Linden Killam
