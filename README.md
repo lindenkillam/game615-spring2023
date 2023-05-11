@@ -5,9 +5,9 @@
 **How to play:**
 Start the game.
 
-[**Playable link to game**]()
+[**Playable link to game**](https://lindenkillam.github.io/game615-spring2023/exercises/exercise01/play)
 
-[**Source link**]()
+[**Source link**](https://github.com/lindenkillam/game615-spring2023/tree/main/exercises/exercise01)
 
 **Asset Attribution:**
 Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza
