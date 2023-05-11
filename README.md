@@ -193,6 +193,6 @@ WASD to move, Space to jump, Shift to wallrun, etc. (Features in-game tutorial.)
 **Game goal:**
 Can you collect all the keys and bring down the firewall in order to reach the end?
 
-[**Playable link to game**]()
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023-final/final/play/)
  
 [**Source link**](https://github.com/Watkinhj/game615-spring2023-final/tree/main/)
